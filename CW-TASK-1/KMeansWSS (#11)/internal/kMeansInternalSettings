@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+<entry key="dimensions" type="xint" value="16"/>
+<entry key="ignoredColumns" type="xint" value="14"/>
+<config key="clusterCoverage">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="49"/>
+<entry key="1" type="xint" value="102"/>
+<entry key="2" type="xint" value="27"/>
+</config>
+<config key="kMeansCluster0">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xdouble" value="-159.59846763279586"/>
+<entry key="1" type="xdouble" value="6.476484557003819"/>
+</config>
+<config key="kMeansCluster1">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xdouble" value="225.4106863828726"/>
+<entry key="1" type="xdouble" value="-2.0125571540053144"/>
+</config>
+<config key="kMeansCluster2">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xdouble" value="-561.9098184091146"/>
+<entry key="1" type="xdouble" value="-4.150626429060601"/>
+</config>
+<config key="FeatureNames">
+<entry key="array-size" type="xint" value="16"/>
+<entry key="0" type="xstring" value="PCA dimension 0"/>
+<entry key="1" type="xstring" value="PCA dimension 1"/>
+<entry key="2" type="xstring" isnull="true" value=""/>
+<entry key="3" type="xstring" isnull="true" value=""/>
+<entry key="4" type="xstring" isnull="true" value=""/>
+<entry key="5" type="xstring" isnull="true" value=""/>
+<entry key="6" type="xstring" isnull="true" value=""/>
+<entry key="7" type="xstring" isnull="true" value=""/>
+<entry key="8" type="xstring" isnull="true" value=""/>
+<entry key="9" type="xstring" isnull="true" value=""/>
+<entry key="10" type="xstring" isnull="true" value=""/>
+<entry key="11" type="xstring" isnull="true" value=""/>
+<entry key="12" type="xstring" isnull="true" value=""/>
+<entry key="13" type="xstring" isnull="true" value=""/>
+<entry key="14" type="xstring" isnull="true" value=""/>
+<entry key="15" type="xstring" isnull="true" value=""/>
+</config>
+</config>

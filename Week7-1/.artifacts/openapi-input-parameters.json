@@ -1,0 +1,12 @@
+
+{
+    "type": "object",
+    "properties": {
+        "string-input-7": {
+            "type": "string",
+            "default": "Cluster_1",
+            "description": "Enter Description",
+            "example": "Cluster_1"
+        }
+    }
+}
